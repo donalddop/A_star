@@ -1,5 +1,5 @@
 import pygame
-from pygame.locals import *
+
 class A_star:
     def __init__(self, size, win, win_size):
         self.grid_size = size
