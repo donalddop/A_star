@@ -1,6 +1,5 @@
 import pygame
 from pygame.locals import *
-import math
 
 class A_star:
     def __init__(self, size, win, win_size):
